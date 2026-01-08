@@ -1,6 +1,17 @@
 {
 	"name": "bento-grid-thing",
-	"version": "0.0.1",
+	"version": "0.1.0",
+	"author": "Lucas de Bona Sartor (https://github.com/lucasbsartor)",
+	"license": "MIT",
+	"description": "BentoGridThing - A terminal-style bento grid builder for developers",
+	"homepage": "https://github.com/lucasbsartor/bento-grid-thing",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lucasbsartor/bento-grid-thing.git"
+	},
+	"bugs": {
+		"url": "https://github.com/lucasbsartor/bento-grid-thing/issues"
+	},
 	"devDependencies": {
 		"@eslint/compat": "^1.4.0",
 		"@eslint/js": "^9.39.1",
